@@ -20,7 +20,7 @@
     "test:e2e": "jest --config ./apps/producers/test/jest-e2e.json"
   },
   "dependencies": {
-    "@grupodistelsa/dist-ksm-lib-marketplace": "1.1.45-2",
+    "@grupodistelsa/dist-ksm-lib-marketplace": "1.1.60",
     "@nestjs/common": "^10.0.0",
     "@nestjs/core": "^10.0.0",
     "@nestjs/microservices": "^10.3.10",
